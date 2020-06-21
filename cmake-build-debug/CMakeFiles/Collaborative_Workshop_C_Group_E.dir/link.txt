@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/Collaborative_Workshop_C_Group_E.dir/main.c.o  -o Collaborative_Workshop_C_Group_E.exe -Wl,--out-implib,libCollaborative_Workshop_C_Group_E.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

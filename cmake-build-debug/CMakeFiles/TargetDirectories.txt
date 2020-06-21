@@ -1,0 +1,3 @@
+/cygdrive/c/Users/tania/CLionProjects/Collaborative_Workshop_C_Group_E/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/tania/CLionProjects/Collaborative_Workshop_C_Group_E/cmake-build-debug/CMakeFiles/Collaborative_Workshop_C_Group_E.dir
+/cygdrive/c/Users/tania/CLionProjects/Collaborative_Workshop_C_Group_E/cmake-build-debug/CMakeFiles/edit_cache.dir
